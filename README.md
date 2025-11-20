@@ -6,6 +6,7 @@
 
 Итогом выполнения домашнего задания будет приложенный скриншот веб-интерфейса RabbitMQ.
 
+<img width="1820" height="740" alt="image" src="https://github.com/user-attachments/assets/35de3bce-153d-4dd8-9f6e-dd3d24f7d8db" />
 
 
 #### Задание 2. Отправка и получение сообщений
@@ -18,9 +19,13 @@ $ pip install pika
 
 В качестве решения домашнего задания приложите оба скриншота, сделанных на этапе выполнения.
 
+<img width="879" height="241" alt="image" src="https://github.com/user-attachments/assets/092dfddb-ebeb-4101-af53-6de489c3c28a" />
 
+<img width="1821" height="835" alt="image" src="https://github.com/user-attachments/assets/ebb6fa8a-7353-46ac-8a1e-411385d78b04" />
 
+<img width="765" height="249" alt="image" src="https://github.com/user-attachments/assets/8d5ca5a9-abe9-4362-afeb-29d70a467950" />
 
+<img width="1841" height="869" alt="image" src="https://github.com/user-attachments/assets/b6a7510e-9b60-4bef-bbb1-a7141e9e5731" />
 
 
 
